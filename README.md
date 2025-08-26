@@ -1,6 +1,6 @@
 # "Теория тестирования"
 Определение методов, типов и уровней тестирования для приложения "Интернет-магазин":  
-[Скачать таблицу](testing_levels_methods_types.xlsx)
+[Ссылка на таблицу testing_levels_methods_types](https://docs.google.com/spreadsheets/d/1GY4Lv-Tz7fl_SdWpvoeU5loTl5RVk41nl-NA1cOXMdo/edit?gid=1609174672#gid=1609174672)
 
 ## "Анализ требований и макета"
 
